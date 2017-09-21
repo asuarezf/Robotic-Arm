@@ -10,4 +10,4 @@ It took a long time but we finaly made it.
 
 Phase 2				20/09/2017							
 		
-Updating the movement of our robotic arm. The movements are now controlled by a server running in Node Js , using Johnny-Five library. The arm is controlled by a website hosted in the same server.
+Updating the movement of our robotic arm. The movements are now controlled by a server running in Node Js, using Johnny-Five library to perform on an Arduino UNO. The arm is controlled by a website hosted in the same server.
