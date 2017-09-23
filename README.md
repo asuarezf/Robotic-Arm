@@ -1,4 +1,4 @@
-Andres Suarez and Nestor Brito 
+Andres Suarez, Ricardo Di Zio, Gabriel Noya and Nestor Brito
 
 Robotic Arm controlled with Arduino DUE     
 
