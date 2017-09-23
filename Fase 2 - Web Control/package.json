@@ -1,0 +1,11 @@
+{
+	"name": "nodebot-sample",
+	"description": "Ejemplo LED RBG Johnny-Five",
+	"author": "Programarfacil",
+	"version": "0.1.0",
+	"dependencies": {
+	"express": "^4.13.3",
+	"johnny-five": "^0.8.53",
+	"socket.io": "^1.3.3"
+		}
+}
